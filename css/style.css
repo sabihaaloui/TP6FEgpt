@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/imh5G1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+h1 {
+    color: white; /* Le texte sera blanc */
+    background-color:  rgb(68, 95, 162);
+}
+h4{
+    color: white; /* Le texte sera blanc */
+    background-color:   rgb(68, 95, 162);
+}
+
+.parent{
+    width: 300px;
+    height: 200;
+    color: white; /* Le texte sera blanc */
+    background-color:  rgb(68, 95, 162);
+
+}
+.text3{
+    background-color:white;
+    width: 240px;
+    height:160px;
+    border-radius: 10px; 
+ 
+}
+img{
+    width: 100%;
+    height: 100px;;
+    margin-right:-30px;
+
+}
+.text4{
+    background-color:white;
+    width: 300px;
+    height: 350px;
+    background-color:  rgb(68, 95, 162);
+    
+
+}
+.button{
+    background-color:white;
+    width:300px;
+    height:50px;
+    text-align: center;
+padding-top: 10px;
+}
+.text5{
+    background-color:  rgb(68, 95, 162);
+    width:300px;
+    height:50px;
+    color:black;
+}
+    .text5.button{
+    color:   rgb(68, 95, 162);}
+
+    .text6{
+        background-color:white;
+        width:250px;
+        height:20px;
+        color:black;
+    }
+    .text7{
+        background-color:white;
+        width:300px;
+        height:50px;
+        color:black;
+    }
+      
